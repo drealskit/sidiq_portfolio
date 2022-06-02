@@ -1,5 +1,5 @@
 # sidiq_portfolio
-#project 1 Data Science Salary Estimator : Project Overview
+#(Project 1 Data Science Salary Estimator : Project Overview)(https://drealskit.github.io/sidiq_portfolio/)
 
 * Created a tool that estimate data science salaries (MAE ~ $ 11K) to help data scientist negotiate their income when they get a job.
 
